@@ -1,0 +1,6 @@
+a=input("Enter the 1st string:")
+print(a[0:3])
+b=input("Enter the 2nd string:")
+print(b[0:3])
+c=input("Enter the 3rd string:")
+print(c[0:3])
